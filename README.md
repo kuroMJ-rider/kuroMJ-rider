@@ -1,16 +1,42 @@
 ## Hi there 👋
 
-<!--
-**kuroMJ-rider/kuroMJ-rider** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌱 Who am I
+전시·아카이브·출판/편집·브랜딩을 하다가, 
+지금은 12기 코드잇 스프린트 부트캠프에서 데이터 분석가 과정을 배우고 있습니다. 
+‘새로운 언어’로 삼아 문제를 구조화하고 설득하는 기획자로 전환 중입니다. 
 
-Here are some ideas to get you started:
+## 📫 What am I doing
+### 전공
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 사회학 학부/사진학 석사
+
+### 이전 커리어
+
+- 전시 기획/디렉팅, 아카이브 프로젝트 운영(개인 회사 13년 운영)
+- 매거진·출판·편집, 인터뷰 기반 콘텐츠 제작
+- 브랜드 전략/네이밍/카피라이팅 등 커뮤니케이션 기획
+- www.memoryplant.com
+
+### 
+스프린트 1단계(2팀)
+
+- 멘토: 이상열 멘토
+- 팀 협업 경험을 통해, 도메인 이해 → 문제 정의 → 지표/가설로 연결하는 흐름을 학습
+- 데이터 분석을 “정답 찾기”가 아니라 의사결정 설계로 보는 관점을 강화
+- 1단계 프로젝트 노션 : [Team Project ](https://www.notion.so/Team-Project-2b3bdd656dee81f9b36fcac3f72b2211?pvs=21)
+
+스프린트 2단계(1팀)
+
+- 멘토: 김지현 멘토
+- 더 탄탄한 데이터 기반(파이프라인/품질/재현성) 관점으로 프로젝트를 개선하고 싶음
+- EDA한 결과를 데이터 해석으로 정리하는 것까지는 해내지만, KPI 설계, 지표 설계, 실험 연결은 어려워하는 단계였음
+- 프로젝트 수행 후 모든 단계를 밟고 팀원들과 논의를 거치는 과정을 통해 시작 전에 비해 막연하게 나마 큰 그림을 그릴 수 있게 되었음
+- 2단계 프로젝트 노션 : [1팀 중급 프로젝트-Rebirth](https://www.notion.so/1-Rebirth-2e905b289c1f8094ade4ed406bd2a688?pvs=21)
+
+현재 3단계(4팀)
+
+- 멘토: 이세현 멘토
+- 머신러닝 단계에 들어와서 잠시 길을 잃은 상태임. 앞으로 지속할 수 있을지 고민이 됨
+- 그만 두지 않을 이유를 스스로에게 주기 위한 동기부여로 12기 북클럽 스터디 운영 시작 → 바이브 코딩을 시도하여 북클럽을 위한 웹앱을 만듬
+- 북클럽 노션 : [데이터 인류학 살롱](https://www.notion.so/304d40a761f480d6992ec0251eddd4c7?pvs=21)
+- 북클럽 웹앱 : https://v0-bookclub.vercel.app/
